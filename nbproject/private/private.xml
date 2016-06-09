@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Chimere/Model/ClientModel.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/Model/Devis_MatiereModel.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/OperateurView.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/Model/VilleModel.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/BijoutierView.html</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/Formulaire/CibleNouveauProjet.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/Formulaire/FormulaireNouveauArtisan.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/Formulaire/CibleTerminerEtape.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/Model/ArtisanModel.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/CibleNouvelleEtape.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/CibleFormulaireControleur.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/ControleurView.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/css/pagecss.css</file>
+            <file>file:/C:/xampp/htdocs/Chimere/Model/EtapeModel.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/Model/DevisModel.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/FicheBijou.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/Model/MetierModel.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/Model/TypeModel.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/Formulaire/CibleNouveauArtisan.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/index.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/Formulaire/FormulaireCreationProjet.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/Model/MatiereModel.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/Formulaire/FormulaireTerminerEtape.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/Formulaire/CibleNouvelleVille.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/View/SiteVitrine.php</file>
+            <file>file:/C:/xampp/htdocs/Chimere/helper/Connect.php</file>
+        </group>
+    </open-files>
+</project-private>
